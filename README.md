@@ -14,4 +14,4 @@ docker run -it -p 0.0.0.0:3974:3974 -v `"C:\Users\jinyan.wang\Documents\GitHub\m
 
 go to url 
 
-localhost:3974
+[localhost:3974](http://localhost:3974/)
