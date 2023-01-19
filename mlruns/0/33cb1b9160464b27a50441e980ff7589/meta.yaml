@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33cb1b9160464b27a50441e980ff7589/artifacts
+end_time: 1674116405500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33cb1b9160464b27a50441e980ff7589
+run_name: charming-lynx-779
+run_uuid: 33cb1b9160464b27a50441e980ff7589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674116405104
+status: 3
+tags: []
+user_id: jinyan.wang
