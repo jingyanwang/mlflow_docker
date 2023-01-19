@@ -2,6 +2,7 @@ docker build -t jingyanwang1/mlflow:1.0.1 .
 
 docker run -it -p 0.0.0.0:3974:3974 -v `"C:\Users\jinyan.wang\Documents\GitHub\mlflow_docker`":/data jingyanwang1/mlflow:1.0.1 
 
+docker run -it -p 0.0.0.0:3974:3974 -v /home/jinyan.wang/mlflow:/data jingyanwang1/mlflow:1.0.1 
 
 mlflow server -h 0.0.0.0 -p 3974 
 --backend-store-uri file:///data
