@@ -1,5 +1,11 @@
 # mlflow_docker
 
+pull the docker
+
+```bash
+docker pull jingyanwang1/mlflow:1.0.1
+```
+
 start the service
 
 ```bash
